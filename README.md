@@ -67,3 +67,6 @@ The Firebase service account key contains private credentials, so it is excluded
 This project helped me practice working with a cloud database from Python. I worked with Firestore collections and documents and learned how to create, retrieve, update, and delete data.
 
 I also learned how to work with lists and dictionaries inside Firestore documents while building the ingredient management features.
+
+# video link
+Watch Video here https://go.screenpal.com/watch/cOQFb4nxVrb
